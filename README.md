@@ -2,8 +2,8 @@
   - 🎓 Cursando *Técnico em Informática* no IFCE 
   - 🗣️ Falo Inglês 
 <div>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=raulscarvalho&show_icons=true&theme=dark"> </img>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulscarvalho&show_icons=true&theme=dark"> </img>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=raulscarvalho&show_icons=true&theme=dark"> </img>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulscarvalho&show_icons=true&theme=dark"> </img>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
