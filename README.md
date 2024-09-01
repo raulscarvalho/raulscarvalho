@@ -1,4 +1,5 @@
-### Prazer, sou o Raúl! 👋
+<h1 align="center">Prazer, sou o Raúl! 👋</h1>
+
   - 🎓 Cursando *Técnico em Informática* no IFCE 
   - 🗣️ Falo Inglês 
 <div>
