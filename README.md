@@ -1,7 +1,7 @@
 <h1 align="center">Prazer, sou o Raúl! 👋</h1>
 
   - 🎓 Cursando *Técnico em Informática* no IFCE 
-  - 🗣️ Falo Inglês 
+  - 📚 Inglês intermediário
 <div>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=raulscarvalho&show_icons=true&theme=dark"> </img>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulscarvalho&show_icons=true&theme=dark"> </img>
