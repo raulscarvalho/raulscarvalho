@@ -3,8 +3,6 @@
   - 🎓 Cursando *Técnico em Informática* no IFCE 
   - 📚 Inglês intermediário
 <div>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=raulscarvalho&show_icons=true&theme=tokyonight"> </img>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulscarvalho&show_icons=true&theme=tokyonight"> </img>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
