@@ -1,7 +1,7 @@
 <h1 align="center">Prazer, sou o Raúl! 👋</h1>
 
-  - 🎓 Cursando *Técnico em Informática* no IFCE 
-  - 📚 Inglês intermediário
+  - 🎓 Técnico em Informática pelo IFCE
+  - 📚 Cursando computação na UFMG
 <div>
 </div>
 <div>
