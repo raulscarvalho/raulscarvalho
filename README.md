@@ -1,13 +1,51 @@
-<h1 align="center">Prazer, sou o Raúl! 👋</h1>
+# Raúl Simioni de Carvalho
 
-  - 🎓 Técnico em Informática pelo IFCE
-  - 📚 Cursando computação na UFMG
-<div>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+```txt
+> Computer Science student @ UFMG
+> IFCE — Integrated Technical Degree in Informatics
+> English speaker
+```
+
+---
+
+```bash
+$ whoami
+raul-simioni
+
+$ interests
+computer-science
+security
+low-level-systems
+linux
+```
+
+---
+
+### stack
+
+<p align="left">
+  <!-- badges here -->
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" />
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c" />
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk" />
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
+
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux" />
+
+  <!-- Kali Linux -->
+  <img src="https://img.shields.io/badge/-Kali_Linux-000?style=for-the-badge&logo=kalilinux" />
+
+  <!-- VSCode -->
+  <img src="https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode" />
+</p>
+
+---
