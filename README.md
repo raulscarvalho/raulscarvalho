@@ -41,8 +41,8 @@ linux
   <!-- Linux -->
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux" />
 
-  <!-- Kali Linux -->
-  <img src="https://img.shields.io/badge/-Kali_Linux-000?style=for-the-badge&logo=kalilinux" />
+  <!-- Endeavour -->
+  <img src="https://img.shields.io/badge/EndeavourOS-000000?style=for-the-badge&logo=endeavouros&logoColor=7EBCFF" alt="EndeavourOS" />
 
   <!-- VSCode -->
   <img src="https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode" />
